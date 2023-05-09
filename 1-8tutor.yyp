@@ -1,0 +1,51 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "1-8tutor",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Спрайты","folderPath":"folders/Спрайты.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Наборы плиток","folderPath":"folders/Наборы плиток.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Звуки","folderPath":"folders/Звуки.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Пути","folderPath":"folders/Пути.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Скрипты","folderPath":"folders/Скрипты.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шейдеры","folderPath":"folders/Шейдеры.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шрифты","folderPath":"folders/Шрифты.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Временные шкалы","folderPath":"folders/Временные шкалы.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Объекты","folderPath":"folders/Объекты.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Румы","folderPath":"folders/Румы.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Последовательности","folderPath":"folders/Последовательности.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Кривые анимации","folderPath":"folders/Кривые анимации.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Примечания","folderPath":"folders/Примечания.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Расширения","folderPath":"folders/Расширения.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.2.1.75",
+  },
+  "resources": [
+    {"id":{"name":"num1","path":"objects/num1/num1.yy",},},
+    {"id":{"name":"num3","path":"objects/num3/num3.yy",},},
+    {"id":{"name":"num2","path":"objects/num2/num2.yy",},},
+    {"id":{"name":"sp_num1","path":"sprites/sp_num1/sp_num1.yy",},},
+    {"id":{"name":"sp_num2","path":"sprites/sp_num2/sp_num2.yy",},},
+    {"id":{"name":"sp_num3","path":"sprites/sp_num3/sp_num3.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
